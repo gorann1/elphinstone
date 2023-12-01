@@ -1,0 +1,5 @@
+pnpm exec prettier . --write
+npx prettier . --check
+
+1. Husky, Prettier, ESLINT 
+2. Total Typescript with ts-reset 
